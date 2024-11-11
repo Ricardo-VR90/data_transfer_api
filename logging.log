@@ -1,0 +1,22 @@
+2024-11-10 15:44:57,813 WARNING file_utils
+In File C:\Users\Ricardo\Documents\Prueba\hired_employees.csv the following Employees ids do not have Datetimefield: [157, 663, 789, 1092, 1095, 1252, 1323, 1467, 1483, 1686, 1780, 1814, 1869, 1925]
+2024-11-10 15:44:57,814 WARNING file_utils
+In File C:\Users\Ricardo\Documents\Prueba\hired_employees.csv the following Employees ids do not have Job ID: [2, 84, 198, 393, 533, 758, 792, 932, 955, 961, 1304, 1474, 1523, 1561, 1589, 1860]
+2024-11-10 15:44:57,815 WARNING file_utils
+In File C:\Users\Ricardo\Documents\Prueba\hired_employees.csv the following Employees ids do not have Department ID: [67, 87, 97, 133, 207, 216, 685, 824, 832, 942, 1098, 1110, 1279, 1413, 1423, 1432, 1463, 1590, 1613, 1714, 1987]
+2024-11-10 15:52:32,416 WARNING file_utils
+In File C:\Users\Ricardo\Documents\Prueba\departments.csv the following Employees ids do not have Datetimefield: []
+2024-11-10 15:57:20,609 WARNING file_utils
+In File C:\Users\Ricardo\Documents\Prueba\jobs.csv the following Employees ids do not have Department: []
+2024-11-10 15:58:59,323 WARNING file_utils
+In File C:\Users\Ricardo\Documents\Prueba\jobs.csv the following Employees ids do not have Job: []
+2024-11-10 17:59:14,840 WARNING file_utils
+In File C:\Users\Ricardo\Documents\Prueba\hired_employees.csv the following Employees ids do not have Datetimefield: [157, 663, 789, 1092, 1095, 1252, 1323, 1467, 1483, 1686, 1780, 1814, 1869, 1925]
+2024-11-10 17:59:14,842 WARNING file_utils
+In File C:\Users\Ricardo\Documents\Prueba\hired_employees.csv the following Employees ids do not have Job ID: [2, 84, 198, 393, 533, 758, 792, 932, 955, 961, 1304, 1474, 1523, 1561, 1589, 1860]
+2024-11-10 17:59:14,844 WARNING file_utils
+In File C:\Users\Ricardo\Documents\Prueba\hired_employees.csv the following Employees ids do not have Department ID: [67, 87, 97, 133, 207, 216, 685, 824, 832, 942, 1098, 1110, 1279, 1413, 1423, 1432, 1463, 1590, 1613, 1714, 1987]
+2024-11-10 17:59:42,193 WARNING file_utils
+In File C:\Users\Ricardo\Documents\Prueba\departments.csv the following Employees ids do not have Department: []
+2024-11-10 17:59:49,503 WARNING file_utils
+In File C:\Users\Ricardo\Documents\Prueba\jobs.csv the following Employees ids do not have Job: []
